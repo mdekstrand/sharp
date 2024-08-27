@@ -1,5 +1,5 @@
 {
-  "name": "@mdekstrand/sharp",
+  "name": "@mdekstrand/sharp-wasm-only",
   "description": "High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, GIF, AVIF and TIFF images",
   "version": "0.33.5",
   "author": "Lovell Fuller <npm@lovell.info>",
