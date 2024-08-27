@@ -1,5 +1,10 @@
 # sharp
 
+> [!IMPORTANT]
+> 
+> This is a **fork** of sharp that only uses the WASM backend for experimental
+> purposes.  You want the `sharp` package instead.
+
 <img src="https://cdn.jsdelivr.net/gh/lovell/sharp@main/docs/image/sharp-logo.svg" width="160" height="160" alt="sharp logo" align="right">
 
 The typical use case for this high speed Node-API module
